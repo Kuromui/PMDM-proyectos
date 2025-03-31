@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blau">#3F51B5</color>
+    <color name="taronja">#EFB718</color>
+    <color name="blau_oscur">#056D75</color>
+    <color name="gris">#d4d1cb</color>
+    <color name="gris_oscur">#88888A</color>
+    <color name="morat">#7E1492</color>
+
+
+</resources>
