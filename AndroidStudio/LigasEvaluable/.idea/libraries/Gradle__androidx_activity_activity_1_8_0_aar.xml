@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity:1.8.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/e96d0234676871f2d93be4b9c1052fef/transformed/activity-1.8.0/res" />
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/e96d0234676871f2d93be4b9c1052fef/transformed/activity-1.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/e96d0234676871f2d93be4b9c1052fef/transformed/activity-1.8.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/modules-2/files-2.1/androidx.activity/activity/1.8.0/d56176e5b2b55654d898039f3c3685cc9c221af7/activity-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-idling-resource:3.6.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/e5359d1aa63c050634e84d4590d4d393/transformed/espresso-idling-resource-3.6.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/e5359d1aa63c050634e84d4590d4d393/transformed/espresso-idling-resource-3.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.6.1/77a86d3b8d6399211eaa422174f17011978567bb/espresso-idling-resource-3.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

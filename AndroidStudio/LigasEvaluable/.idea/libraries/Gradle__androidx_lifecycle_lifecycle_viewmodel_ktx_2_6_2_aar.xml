@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/279f7f22b82ce023c2c3a05834bd85e0/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/279f7f22b82ce023c2c3a05834bd85e0/transformed/lifecycle-viewmodel-ktx-2.6.2/res" />
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/279f7f22b82ce023c2c3a05834bd85e0/transformed/lifecycle-viewmodel-ktx-2.6.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-ktx/2.6.2/a05e599dfc3c73f4dbbd43acef2fcaec28d0704a/lifecycle-viewmodel-ktx-2.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

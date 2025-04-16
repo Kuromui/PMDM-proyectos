@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-common:21.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/6286770cab1c5dbc791b4c1c698445e9/transformed/firebase-common-21.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/6286770cab1c5dbc791b4c1c698445e9/transformed/firebase-common-21.0.0/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/6286770cab1c5dbc791b4c1c698445e9/transformed/firebase-common-21.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/modules-2/files-2.1/com.google.firebase/firebase-common/21.0.0/c727140732618b82e5c1ce53ce1464d5d31a5118/firebase-common-21.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

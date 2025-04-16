@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-ui:2.8.9@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/e0ee37ade9c5a7b688c25ab14a07f84d/transformed/navigation-ui-2.8.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/e0ee37ade9c5a7b688c25ab14a07f84d/transformed/navigation-ui-2.8.9/res" />
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/e0ee37ade9c5a7b688c25ab14a07f84d/transformed/navigation-ui-2.8.9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/modules-2/files-2.1/androidx.navigation/navigation-ui/2.8.9/794ff876987dc95057bbf0a112930ef1023ca27f/navigation-ui-2.8.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

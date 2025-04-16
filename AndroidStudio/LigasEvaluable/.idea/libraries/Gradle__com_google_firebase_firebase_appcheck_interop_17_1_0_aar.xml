@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-appcheck-interop:17.1.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/19b41a7c165ef4a06f43b0c200759c0b/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/8.11.1/transforms/19b41a7c165ef4a06f43b0c200759c0b/transformed/firebase-appcheck-interop-17.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.5.11-hotspot/caches/modules-2/files-2.1/com.google.firebase/firebase-appcheck-interop/17.1.0/db8e1ed84fa1d773f67a4f10e074325e727572cc/firebase-appcheck-interop-17.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
