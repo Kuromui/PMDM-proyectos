@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\layout_favs_fragment.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\favs_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\layout_item_recycler.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\item_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ligasevaluable.app-debug-59:/layout_favs_fragment.xml.flat",
+        "source": "com.example.ligasevaluable.app-main-61:/layout/favs_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\raw_estrellitas.json.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\raw\\estrellitas.json"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\layout_equipos_item.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\equipos_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\drawable_registro.png.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\drawable\\registro.png"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\layout_registro_fragment.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\registro_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\layout_inicio_fragment.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\inicio_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\drawable_icon_fav_linea.png.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\drawable\\icon_fav_linea.png"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\drawable_icon_fav_relleno.png.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\drawable\\icon_fav_relleno.png"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\drawable_pelota2.png.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\drawable\\pelota2.png"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\drawable_login_et_fondo.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\drawable\\login_et_fondo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\drawable_registro_et_fondo.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\drawable\\registro_et_fondo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\raw_login_anim.json.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\raw\\login_anim.json"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\layout_login_fragment.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-debug-59:\\layout_equipos_fragment.xml.flat",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\equipos_fragment.xml"
+    }
+]

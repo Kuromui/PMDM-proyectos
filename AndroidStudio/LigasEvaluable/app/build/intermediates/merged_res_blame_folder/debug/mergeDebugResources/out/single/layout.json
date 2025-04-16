@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-mergeDebugResources-58:\\layout\\content_main.xml",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "com.example.ligasevaluable.app-mergeDebugResources-58:/layout/favs_fragment.xml",
+        "source": "com.example.ligasevaluable.app-main-61:/layout/favs_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-mergeDebugResources-58:\\layout\\equipos_fragment.xml",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\equipos_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-mergeDebugResources-58:\\layout\\item_recycler.xml",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\item_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-mergeDebugResources-58:\\layout\\registro_fragment.xml",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\registro_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-mergeDebugResources-58:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-mergeDebugResources-58:\\layout\\login_fragment.xml",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-mergeDebugResources-58:\\layout\\inicio_fragment.xml",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\inicio_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-mergeDebugResources-58:\\layout\\equipos_item.xml",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\equipos_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-mergeDebugResources-58:\\layout\\favs_fragment.xml",
+        "source": "C:\\Users\\Luz\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot\\daemon\\8.11.1\\com.example.ligasevaluable.app-main-61:\\layout\\favs_fragment.xml"
+    }
+]

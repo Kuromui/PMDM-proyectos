@@ -1,0 +1,705 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b0f55ae7c959ae21bf6d68424465b117\transformed\viewbinding-8.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3ed7580c9d07699109457460848193fe\transformed\lottie-6.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0d140d7c555d70f0290f1fdb69424a55\transformed\navigation-common-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\f593a13c272de870352d1b756f00bce3\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ccb17f22198588708968b5890a9a3a4a\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2d19db05d32370179f052d003f3ed10c\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3b35066b737cf4fe4ea1e3c88442bf16\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d80125c82c71591ed9fe934fa44b712e\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2346b8c703a3d54e20dfc1a3b41e8902\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e0ee37ade9c5a7b688c25ab14a07f84d\transformed\navigation-ui-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\c11e62d06d8c38cd30dbd06cdad0c63f\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\39332fbc5dedbd5c26a17ed28b521b63\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\05010a7f50bb4c0ff2066dcca6d8bd1b\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d3980c1253459a569a0c3216b4353cf6\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\dda4d4f98bd0291dc3e8fcc62f354413\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4e2524349b8d4df97a7bbe5bae31eb27\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\14c7b899bb9cd18a74e9191c6452c900\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6096d481ec52e90db63383edff821ca8\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\41a90a1d088178849a771a9b06c4f23b\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1fd11e411b6d891df8200e20948178cc\transformed\recaptcha-18.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\fb33a263338bcb78d145bf3c16b8f341\transformed\integrity-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\bcb18b6ed8a9b1d7d19f2f48063a27e3\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\19b41a7c165ef4a06f43b0c200759c0b\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9c7d0bcefa7d5dee3e8748a9239d2d51\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\523c978275d95463df259b5a2723fc2c\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\74596df4a4eb05f81d6b0bbe52716fad\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4edf09a1612d87b094d53e37cab0ca99\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0d67a7645105e74f2428d991b84a8c07\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2252e80976841e05d7bee4b2811f9d6a\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec92d6040217c6517b1ef157ba16583a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3ad25da7068478a8305262dc8976cd4d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02ade87f421a9d94a3724db941680dbf\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\838913c494673266c3236aa7b48bc778\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\812a15fc15dd59df1b825e6f84eb2cb9\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cd2a45be7d5cd4e4c12affb81eb1f6d8\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a112f90dcda6e7610f6ab1dec5775624\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\279f7f22b82ce023c2c3a05834bd85e0\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9237a88d45867c4a809deb82c89ff680\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3697b598c0004eba12550b6f48da34c7\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9394b866266b5535c8b6655c4fb5f058\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\317a72ccdc07b79b52b412a43f7a1784\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\fab162225e48a981752cbe23787dc307\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6a650f4f16cde2b2a74baa511e8555d0\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2e034d12625e84275c59f68f2bf1a549\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\7397edb8615c56c0d6973ab08b10cc8f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3a76b100c66b8bfbe5d73ceab86e4265\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\411ea231c49f1e1e2118bb6bb2c8f181\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e96d0234676871f2d93be4b9c1052fef\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\61bd1c30eec6f6b652532d7f4362319c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\472783a053d1ffb4378a5c6a66b06336\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\491e748da04bfdf1fbd3f791e2ac2a19\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\dc3ac7a72893fae6e88a675eacd25d16\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a148e5f9d3f5f9fa21f1d0f1b11ec995\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3c7c5da605d641205a95c243321cac84\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6a283a6bb728da3081d714c8fbf3e4a7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\f99544309ddec486279230b831d3fb43\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e53e2c30c398aa3ddd9082aa24617138\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9079ca2a2884cfc708bc8a792a914eab\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\eb6e55e35314b75830434d28f4f2262e\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3b0d0e08bb3ff808e4283477d6d21321\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b24cd21535e04b542b927bf3459e4718\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4fdd33c9865e986ae2a16def85cbc5a2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\58b9cd841a0b710a47a83429a0ac7409\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b04ca3c5f7e4f44ed6e33d9ea260887a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a26f18682802e3873b4c3854e9920154\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b0d6ab73b69d1d2f62a5dc704cd5a399\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\afa8f56f6042be563665d0e1fbbb4b56\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0981c8a8df69ff5d0319f2d411e07db5\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ddd5a1e9127adebffa085a1affd8d124\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0aa113861a68726bf3e13f028e44632c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\13ba7078c7ef71427e61105ab9b6d2c7\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\944f7e71751dca03f7d57acfa437c013\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\5586d9a9584faf06b2088f642beed2ae\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d14198206ee581edc722692ee7c03c49\transformed\grpc-android-1.62.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\19747131fc89e7c79a1d9f1006250cef\transformed\protolite-well-known-types-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:5:5-25:19
+INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3ed7580c9d07699109457460848193fe\transformed\lottie-6.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3ed7580c9d07699109457460848193fe\transformed\lottie-6.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\c11e62d06d8c38cd30dbd06cdad0c63f\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\c11e62d06d8c38cd30dbd06cdad0c63f\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\39332fbc5dedbd5c26a17ed28b521b63\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\39332fbc5dedbd5c26a17ed28b521b63\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:13:5-24:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\fb33a263338bcb78d145bf3c16b8f341\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\fb33a263338bcb78d145bf3c16b8f341\transformed\integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\bcb18b6ed8a9b1d7d19f2f48063a27e3\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\bcb18b6ed8a9b1d7d19f2f48063a27e3\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\19b41a7c165ef4a06f43b0c200759c0b\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\19b41a7c165ef4a06f43b0c200759c0b\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\523c978275d95463df259b5a2723fc2c\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\523c978275d95463df259b5a2723fc2c\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4edf09a1612d87b094d53e37cab0ca99\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4edf09a1612d87b094d53e37cab0ca99\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\7397edb8615c56c0d6973ab08b10cc8f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\7397edb8615c56c0d6973ab08b10cc8f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3a76b100c66b8bfbe5d73ceab86e4265\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3a76b100c66b8bfbe5d73ceab86e4265\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a26f18682802e3873b4c3854e9920154\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a26f18682802e3873b4c3854e9920154\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\afa8f56f6042be563665d0e1fbbb4b56\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\afa8f56f6042be563665d0e1fbbb4b56\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:13:9-52
+	android:dataExtractionRules
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.ligasevaluable.MainActivity
+ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:exported
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b0f55ae7c959ae21bf6d68424465b117\transformed\viewbinding-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b0f55ae7c959ae21bf6d68424465b117\transformed\viewbinding-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3ed7580c9d07699109457460848193fe\transformed\lottie-6.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3ed7580c9d07699109457460848193fe\transformed\lottie-6.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0d140d7c555d70f0290f1fdb69424a55\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0d140d7c555d70f0290f1fdb69424a55\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\f593a13c272de870352d1b756f00bce3\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\f593a13c272de870352d1b756f00bce3\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ccb17f22198588708968b5890a9a3a4a\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ccb17f22198588708968b5890a9a3a4a\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2d19db05d32370179f052d003f3ed10c\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2d19db05d32370179f052d003f3ed10c\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3b35066b737cf4fe4ea1e3c88442bf16\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3b35066b737cf4fe4ea1e3c88442bf16\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d80125c82c71591ed9fe934fa44b712e\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d80125c82c71591ed9fe934fa44b712e\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2346b8c703a3d54e20dfc1a3b41e8902\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2346b8c703a3d54e20dfc1a3b41e8902\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e0ee37ade9c5a7b688c25ab14a07f84d\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e0ee37ade9c5a7b688c25ab14a07f84d\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\c11e62d06d8c38cd30dbd06cdad0c63f\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\c11e62d06d8c38cd30dbd06cdad0c63f\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\39332fbc5dedbd5c26a17ed28b521b63\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\39332fbc5dedbd5c26a17ed28b521b63\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\05010a7f50bb4c0ff2066dcca6d8bd1b\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\05010a7f50bb4c0ff2066dcca6d8bd1b\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d3980c1253459a569a0c3216b4353cf6\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d3980c1253459a569a0c3216b4353cf6\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\dda4d4f98bd0291dc3e8fcc62f354413\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\dda4d4f98bd0291dc3e8fcc62f354413\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4e2524349b8d4df97a7bbe5bae31eb27\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4e2524349b8d4df97a7bbe5bae31eb27\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\14c7b899bb9cd18a74e9191c6452c900\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\14c7b899bb9cd18a74e9191c6452c900\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:6:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6096d481ec52e90db63383edff821ca8\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6096d481ec52e90db63383edff821ca8\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\41a90a1d088178849a771a9b06c4f23b\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\41a90a1d088178849a771a9b06c4f23b\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1fd11e411b6d891df8200e20948178cc\transformed\recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1fd11e411b6d891df8200e20948178cc\transformed\recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\fb33a263338bcb78d145bf3c16b8f341\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\fb33a263338bcb78d145bf3c16b8f341\transformed\integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\bcb18b6ed8a9b1d7d19f2f48063a27e3\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\bcb18b6ed8a9b1d7d19f2f48063a27e3\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\19b41a7c165ef4a06f43b0c200759c0b\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\19b41a7c165ef4a06f43b0c200759c0b\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9c7d0bcefa7d5dee3e8748a9239d2d51\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9c7d0bcefa7d5dee3e8748a9239d2d51\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\523c978275d95463df259b5a2723fc2c\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\523c978275d95463df259b5a2723fc2c\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\74596df4a4eb05f81d6b0bbe52716fad\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\74596df4a4eb05f81d6b0bbe52716fad\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4edf09a1612d87b094d53e37cab0ca99\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4edf09a1612d87b094d53e37cab0ca99\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0d67a7645105e74f2428d991b84a8c07\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0d67a7645105e74f2428d991b84a8c07\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2252e80976841e05d7bee4b2811f9d6a\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2252e80976841e05d7bee4b2811f9d6a\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec92d6040217c6517b1ef157ba16583a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec92d6040217c6517b1ef157ba16583a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3ad25da7068478a8305262dc8976cd4d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3ad25da7068478a8305262dc8976cd4d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02ade87f421a9d94a3724db941680dbf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02ade87f421a9d94a3724db941680dbf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\838913c494673266c3236aa7b48bc778\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\838913c494673266c3236aa7b48bc778\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\812a15fc15dd59df1b825e6f84eb2cb9\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\812a15fc15dd59df1b825e6f84eb2cb9\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cd2a45be7d5cd4e4c12affb81eb1f6d8\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cd2a45be7d5cd4e4c12affb81eb1f6d8\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a112f90dcda6e7610f6ab1dec5775624\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a112f90dcda6e7610f6ab1dec5775624\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\279f7f22b82ce023c2c3a05834bd85e0\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\279f7f22b82ce023c2c3a05834bd85e0\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9237a88d45867c4a809deb82c89ff680\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9237a88d45867c4a809deb82c89ff680\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3697b598c0004eba12550b6f48da34c7\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3697b598c0004eba12550b6f48da34c7\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9394b866266b5535c8b6655c4fb5f058\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9394b866266b5535c8b6655c4fb5f058\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\317a72ccdc07b79b52b412a43f7a1784\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\317a72ccdc07b79b52b412a43f7a1784\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\fab162225e48a981752cbe23787dc307\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\fab162225e48a981752cbe23787dc307\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6a650f4f16cde2b2a74baa511e8555d0\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6a650f4f16cde2b2a74baa511e8555d0\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2e034d12625e84275c59f68f2bf1a549\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\2e034d12625e84275c59f68f2bf1a549\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\7397edb8615c56c0d6973ab08b10cc8f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\7397edb8615c56c0d6973ab08b10cc8f\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3a76b100c66b8bfbe5d73ceab86e4265\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3a76b100c66b8bfbe5d73ceab86e4265\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\411ea231c49f1e1e2118bb6bb2c8f181\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\411ea231c49f1e1e2118bb6bb2c8f181\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e96d0234676871f2d93be4b9c1052fef\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e96d0234676871f2d93be4b9c1052fef\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\61bd1c30eec6f6b652532d7f4362319c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\61bd1c30eec6f6b652532d7f4362319c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\472783a053d1ffb4378a5c6a66b06336\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\472783a053d1ffb4378a5c6a66b06336\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\491e748da04bfdf1fbd3f791e2ac2a19\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\491e748da04bfdf1fbd3f791e2ac2a19\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\dc3ac7a72893fae6e88a675eacd25d16\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\dc3ac7a72893fae6e88a675eacd25d16\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a148e5f9d3f5f9fa21f1d0f1b11ec995\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a148e5f9d3f5f9fa21f1d0f1b11ec995\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3c7c5da605d641205a95c243321cac84\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3c7c5da605d641205a95c243321cac84\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6a283a6bb728da3081d714c8fbf3e4a7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6a283a6bb728da3081d714c8fbf3e4a7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\f99544309ddec486279230b831d3fb43\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\f99544309ddec486279230b831d3fb43\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e53e2c30c398aa3ddd9082aa24617138\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e53e2c30c398aa3ddd9082aa24617138\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9079ca2a2884cfc708bc8a792a914eab\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\9079ca2a2884cfc708bc8a792a914eab\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\eb6e55e35314b75830434d28f4f2262e\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\eb6e55e35314b75830434d28f4f2262e\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3b0d0e08bb3ff808e4283477d6d21321\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3b0d0e08bb3ff808e4283477d6d21321\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b24cd21535e04b542b927bf3459e4718\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b24cd21535e04b542b927bf3459e4718\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4fdd33c9865e986ae2a16def85cbc5a2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4fdd33c9865e986ae2a16def85cbc5a2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\58b9cd841a0b710a47a83429a0ac7409\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\58b9cd841a0b710a47a83429a0ac7409\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b04ca3c5f7e4f44ed6e33d9ea260887a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b04ca3c5f7e4f44ed6e33d9ea260887a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a26f18682802e3873b4c3854e9920154\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a26f18682802e3873b4c3854e9920154\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b0d6ab73b69d1d2f62a5dc704cd5a399\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\b0d6ab73b69d1d2f62a5dc704cd5a399\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\afa8f56f6042be563665d0e1fbbb4b56\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\afa8f56f6042be563665d0e1fbbb4b56\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0981c8a8df69ff5d0319f2d411e07db5\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0981c8a8df69ff5d0319f2d411e07db5\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ddd5a1e9127adebffa085a1affd8d124\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ddd5a1e9127adebffa085a1affd8d124\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0aa113861a68726bf3e13f028e44632c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0aa113861a68726bf3e13f028e44632c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\13ba7078c7ef71427e61105ab9b6d2c7\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\13ba7078c7ef71427e61105ab9b6d2c7\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\944f7e71751dca03f7d57acfa437c013\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\944f7e71751dca03f7d57acfa437c013\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\5586d9a9584faf06b2088f642beed2ae\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\5586d9a9584faf06b2088f642beed2ae\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d14198206ee581edc722692ee7c03c49\transformed\grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d14198206ee581edc722692ee7c03c49\transformed\grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\19747131fc89e7c79a1d9f1006250cef\transformed\protolite-well-known-types-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\19747131fc89e7c79a1d9f1006250cef\transformed\protolite-well-known-types-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Luz\Desktop\2oDAM\PMDM\AndroidStudio\LigasEvaluable\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a26f18682802e3873b4c3854e9920154\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\a26f18682802e3873b4c3854e9920154\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\21b3a805271f0c38f32418520af8d7e8\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1fd11e411b6d891df8200e20948178cc\transformed\recaptcha-18.6.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1fd11e411b6d891df8200e20948178cc\transformed\recaptcha-18.6.1\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1fd11e411b6d891df8200e20948178cc\transformed\recaptcha-18.6.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1fd11e411b6d891df8200e20948178cc\transformed\recaptcha-18.6.1\AndroidManifest.xml:8:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d14198206ee581edc722692ee7c03c49\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\d14198206ee581edc722692ee7c03c49\transformed\grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\26e31c2fc66597c40feadd83ecadec75\transformed\firebase-auth-23.2.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\ec2b10def5ac306c7446be558f3f3e7f\transformed\firebase-database-21.0.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\68187c5c5652c54ad242afe1ef79eceb\transformed\firebase-firestore-25.1.3\AndroidManifest.xml:21:17-111
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\cb204b80ab39c821b66ed89072644dc8\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\18ce9236de2e7c326378bfee9546a07b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1fd11e411b6d891df8200e20948178cc\transformed\recaptcha-18.6.1\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1fd11e411b6d891df8200e20948178cc\transformed\recaptcha-18.6.1\AndroidManifest.xml:9:22-95
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\1edab315e5a728504ae896b671f49556\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\6286770cab1c5dbc791b4c1c698445e9\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4edf09a1612d87b094d53e37cab0ca99\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4edf09a1612d87b094d53e37cab0ca99\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4edf09a1612d87b094d53e37cab0ca99\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\4edf09a1612d87b094d53e37cab0ca99\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\36963de38d337843c8e05bf4d8c2c6ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\02888aa65eb676b721c471ccc4fef661\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3a76b100c66b8bfbe5d73ceab86e4265\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3a76b100c66b8bfbe5d73ceab86e4265\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\3a76b100c66b8bfbe5d73ceab86e4265\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.example.ligasevaluable.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.ligasevaluable.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\0492aa33bd80097f6b9598802e7ad07b\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\e05bf0c0c5ba829f2c7b71b3d2664fac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Luz\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\caches\8.11.1\transforms\420dd16c15856a972559238e93c719e2\transformed\core-common-2.0.3\AndroidManifest.xml:15:13-93

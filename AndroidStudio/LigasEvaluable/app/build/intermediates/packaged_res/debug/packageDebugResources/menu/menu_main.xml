@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ligasevaluable.MainActivity">
+    <item
+        android:id="@+id/inicio"
+        app:showAsAction="always"
+        android:title="@string/inicio" />
+    <item
+        android:id="@+id/favs"
+        app:showAsAction="ifRoom"
+        android:title="@string/favoritos" />
+    <item
+        android:id="@+id/salir"
+        app:showAsAction="always"
+        android:title="@string/salir" />
+</menu>
